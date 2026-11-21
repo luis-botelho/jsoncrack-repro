@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^git init && git add \\. && git -c user\\.name='Luis Botelho' -c user\\.email='luis-botelho@users\\.noreply\\.github\\.com' commit -m 'Initial commit' && gh repo create jsoncrack-repro --public --source=\\. --remote=origin --push$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

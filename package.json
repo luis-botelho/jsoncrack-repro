@@ -1,0 +1,19 @@
+{
+  "name": "jsoncrack-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@types/react": "^19.3.0",
+    "jsoncrack-react": "^1.0.5",
+    "react": "^19.3.1",
+    "typescript": "^5.9.3"
+  }
+}
