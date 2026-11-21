@@ -15,5 +15,13 @@
     "jsoncrack-react": "^1.0.5",
     "react": "^19.3.1",
     "typescript": "^5.9.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luis-botelho/jsoncrack-repro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luis-botelho/jsoncrack-repro/issues"
+  },
+  "homepage": "https://github.com/luis-botelho/jsoncrack-repro#readme"
 }
